@@ -1,5 +1,8 @@
 {
-  "name": "goetas-webservices/wsdl2php",
+  "name": "b2bcenter/wsdl2php",
+  "replace": {
+    "goetas-webservices/wsdl2php": "^0.5"
+  },
   "license": "MIT",
   "authors": [
     {
